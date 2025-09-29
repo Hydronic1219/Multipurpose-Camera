@@ -6,7 +6,7 @@ VGA 출력, 환경 센서 표시, LED 제어, LCD 표출 등을 통합해 SoC �
 <p align="left"> 
   <a href="#-프로젝트-개요">프로젝트 개요</a> • 
   <a href="#-skill-stack">Skill Stack</a> • 
-  <a href="#-외관">외관</a> •
+  <a href="#-외관 / 모니터 화면">외관 / 모니터 화면</a> •
   <a href="#-diagram--flow-chart">Diagram & Flow Chart</a> •
   <a href="#-주요-기능">주요 기능</a> • 
   <a href="#-사용-부품">사용 부품</a> • 
@@ -39,9 +39,13 @@ VGA 출력, 환경 센서 표시, LED 제어, LCD 표출 등을 통합해 SoC �
 
 ---
 
-## ✨ 외관
+## ✨ 외관 / 모니터 화면
 
 ![외관](docs/model.png)
+
+![cam1](docs/cam1.png)
+
+![cam2](docs/cam2.png)
 
 ---
 
